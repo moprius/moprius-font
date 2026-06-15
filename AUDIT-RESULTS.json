@@ -1,0 +1,97 @@
+{
+  "status": "PASS",
+  "desktop_fonts": 12,
+  "families": {
+    "Moprius Sans": 4,
+    "Moprius Mono": 4,
+    "Moprius Serif": 4
+  },
+  "errors": [],
+  "notes": [],
+  "fonts": [
+    {
+      "file": "MopriusMono-Bold.ttf",
+      "family": "Moprius Mono",
+      "style": "Bold",
+      "glyphs": 1216,
+      "unicode": 1183
+    },
+    {
+      "file": "MopriusMono-BoldItalic.ttf",
+      "family": "Moprius Mono",
+      "style": "Bold Italic",
+      "glyphs": 1216,
+      "unicode": 1183
+    },
+    {
+      "file": "MopriusMono-Italic.ttf",
+      "family": "Moprius Mono",
+      "style": "Italic",
+      "glyphs": 1216,
+      "unicode": 1183
+    },
+    {
+      "file": "MopriusMono-Regular.ttf",
+      "family": "Moprius Mono",
+      "style": "Regular",
+      "glyphs": 1216,
+      "unicode": 1183
+    },
+    {
+      "file": "MopriusSans-Bold.ttf",
+      "family": "Moprius Sans",
+      "style": "Bold",
+      "glyphs": 1216,
+      "unicode": 1183
+    },
+    {
+      "file": "MopriusSans-BoldItalic.ttf",
+      "family": "Moprius Sans",
+      "style": "Bold Italic",
+      "glyphs": 1216,
+      "unicode": 1183
+    },
+    {
+      "file": "MopriusSans-Italic.ttf",
+      "family": "Moprius Sans",
+      "style": "Italic",
+      "glyphs": 1216,
+      "unicode": 1183
+    },
+    {
+      "file": "MopriusSans-Regular.ttf",
+      "family": "Moprius Sans",
+      "style": "Regular",
+      "glyphs": 1216,
+      "unicode": 1183
+    },
+    {
+      "file": "MopriusSerif-Bold.otf",
+      "family": "Moprius Serif",
+      "style": "Bold",
+      "glyphs": 1414,
+      "unicode": 907
+    },
+    {
+      "file": "MopriusSerif-BoldItalic.otf",
+      "family": "Moprius Serif",
+      "style": "Bold Italic",
+      "glyphs": 551,
+      "unicode": 420
+    },
+    {
+      "file": "MopriusSerif-Italic.otf",
+      "family": "Moprius Serif",
+      "style": "Italic",
+      "glyphs": 551,
+      "unicode": 420
+    },
+    {
+      "file": "MopriusSerif-Regular.otf",
+      "family": "Moprius Serif",
+      "style": "Regular",
+      "glyphs": 1414,
+      "unicode": 907
+    }
+  ]
+}

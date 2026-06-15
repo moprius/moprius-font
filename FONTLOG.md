@@ -1,10 +1,21 @@
-# FONTLOG
+# FONTLOG — Moprius Font Family
 
-## 1.437 — 2026-06-15
+## Collection 1.0.0 — 2026-06-15
 
-- Renamed the public families to **Moprius Sans** and **Moprius Mono**.
-- Restored Adobe, Jany Belluz and Denis Alves copyright notices.
-- Moved the project logo from `U+F8FF` to `U+E000`.
-- Cleared stale TrueType hint-program maxima from the unhinted fonts.
-- Added WOFF2, CSS, TTX sources, build tools, checksums and audit documentation.
-- Retained the glyph corrections made in development versions 1.431–1.436.
+- Combined Moprius Sans 1.437, Moprius Mono 1.437 and Moprius Serif 1.000 into one public repository.
+- Included 12 desktop fonts and 12 WOFF2 webfonts.
+- Added combined CSS, editable TTX sources, GitHub Pages specimen, Linux installer and automated auditing.
+
+## Moprius Sans and Mono 1.437
+
+- Public families renamed to Moprius Sans and Moprius Mono.
+- Restored upstream copyright notices and removed the Reserved Font Name from primary naming.
+- Corrected accented glyphs, symbols, italic technical characters and monospaced metrics.
+- Moved the private project logo to U+E000 and cleaned obsolete hint-program maxima.
+
+## Moprius Serif 1.000
+
+- Created Regular, Italic, Bold and Bold Italic reading styles.
+- Renamed public names to Moprius Serif.
+- Harmonized reading space and typographic vertical metrics.
+- Preserved the licensed base design's OpenType layout behavior.

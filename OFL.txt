@@ -1,9 +1,11 @@
 Copyright 2010-2024 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.
 All Rights Reserved. Source is a trademark of Adobe in the United States and/or other countries.
 
+Copyright 2014-2018 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'.
+
 Copyright (c) 2013-2017, Jany Belluz (jany.belluz@hotmail.fr).
 
-Modifications and Moprius Sans/Moprius Mono family copyright 2026 Denis Alves.
+Modifications and Moprius Sans/Moprius Mono/Moprius Serif family copyright 2026 Denis Alves.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

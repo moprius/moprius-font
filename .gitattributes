@@ -1,0 +1,8 @@
+*.ttf binary
+*.otf binary
+*.woff2 binary
+*.png binary
+*.ttx text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.sh text eol=lf

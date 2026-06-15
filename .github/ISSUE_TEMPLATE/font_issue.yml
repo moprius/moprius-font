@@ -1,0 +1,26 @@
+name: Glyph or rendering problem
+description: Report a character, spacing, naming or rendering issue.
+title: "[Font issue] "
+labels: ["font bug"]
+body:
+  - type: dropdown
+    id: family
+    attributes:
+      label: Family
+      options: [Moprius Sans, Moprius Mono, Moprius Serif]
+    validations: {required: true}
+  - type: input
+    id: style
+    attributes: {label: Style, placeholder: "Regular, Italic, Bold or Bold Italic"}
+    validations: {required: true}
+  - type: input
+    id: character
+    attributes: {label: Character or Unicode code point}
+  - type: textarea
+    id: environment
+    attributes: {label: Environment, description: "Operating system, application and font size."}
+    validations: {required: true}
+  - type: textarea
+    id: description
+    attributes: {label: Description, description: "Explain the problem and attach a screenshot."}
+    validations: {required: true}

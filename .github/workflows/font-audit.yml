@@ -1,0 +1,24 @@
+name: Font audit
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fontconfig
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Rebuild fonts
+        run: python tools/build.py
+      - name: Audit fonts
+        run: python tools/audit.py

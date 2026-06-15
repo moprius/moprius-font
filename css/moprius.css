@@ -1,63 +1,63 @@
-@font-face {
-  font-family: 'Moprius Sans';
-  src: url('../fonts/woff2/MopriusSans-Regular.woff2') format('woff2');
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-}
+/* Moprius Font Family — combined webfont stylesheet */
+/* Sans 1.437, Mono 1.437, Serif 1.000 */
 
 @font-face {
-  font-family: 'Moprius Sans';
-  src: url('../fonts/woff2/MopriusSans-Italic.woff2') format('woff2');
-  font-style: italic;
-  font-weight: 400;
-  font-display: swap;
+  font-family: "Moprius Sans";
+  src: url("../fonts/woff2/MopriusSans-Regular.woff2") format("woff2");
+  font-style: normal; font-weight: 400; font-display: swap;
 }
-
 @font-face {
-  font-family: 'Moprius Sans';
-  src: url('../fonts/woff2/MopriusSans-Bold.woff2') format('woff2');
-  font-style: normal;
-  font-weight: 700;
-  font-display: swap;
+  font-family: "Moprius Sans";
+  src: url("../fonts/woff2/MopriusSans-Italic.woff2") format("woff2");
+  font-style: italic; font-weight: 400; font-display: swap;
 }
-
 @font-face {
-  font-family: 'Moprius Sans';
-  src: url('../fonts/woff2/MopriusSans-BoldItalic.woff2') format('woff2');
-  font-style: italic;
-  font-weight: 700;
-  font-display: swap;
+  font-family: "Moprius Sans";
+  src: url("../fonts/woff2/MopriusSans-Bold.woff2") format("woff2");
+  font-style: normal; font-weight: 700; font-display: swap;
 }
-
 @font-face {
-  font-family: 'Moprius Mono';
-  src: url('../fonts/woff2/MopriusMono-Regular.woff2') format('woff2');
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
+  font-family: "Moprius Sans";
+  src: url("../fonts/woff2/MopriusSans-BoldItalic.woff2") format("woff2");
+  font-style: italic; font-weight: 700; font-display: swap;
 }
-
 @font-face {
-  font-family: 'Moprius Mono';
-  src: url('../fonts/woff2/MopriusMono-Italic.woff2') format('woff2');
-  font-style: italic;
-  font-weight: 400;
-  font-display: swap;
+  font-family: "Moprius Mono";
+  src: url("../fonts/woff2/MopriusMono-Regular.woff2") format("woff2");
+  font-style: normal; font-weight: 400; font-display: swap;
 }
-
 @font-face {
-  font-family: 'Moprius Mono';
-  src: url('../fonts/woff2/MopriusMono-Bold.woff2') format('woff2');
-  font-style: normal;
-  font-weight: 700;
-  font-display: swap;
+  font-family: "Moprius Mono";
+  src: url("../fonts/woff2/MopriusMono-Italic.woff2") format("woff2");
+  font-style: italic; font-weight: 400; font-display: swap;
 }
-
 @font-face {
-  font-family: 'Moprius Mono';
-  src: url('../fonts/woff2/MopriusMono-BoldItalic.woff2') format('woff2');
-  font-style: italic;
-  font-weight: 700;
-  font-display: swap;
+  font-family: "Moprius Mono";
+  src: url("../fonts/woff2/MopriusMono-Bold.woff2") format("woff2");
+  font-style: normal; font-weight: 700; font-display: swap;
+}
+@font-face {
+  font-family: "Moprius Mono";
+  src: url("../fonts/woff2/MopriusMono-BoldItalic.woff2") format("woff2");
+  font-style: italic; font-weight: 700; font-display: swap;
+}
+@font-face {
+  font-family: "Moprius Serif";
+  src: url("../fonts/woff2/MopriusSerif-Regular.woff2") format("woff2");
+  font-style: normal; font-weight: 400; font-display: swap;
+}
+@font-face {
+  font-family: "Moprius Serif";
+  src: url("../fonts/woff2/MopriusSerif-Italic.woff2") format("woff2");
+  font-style: italic; font-weight: 400; font-display: swap;
+}
+@font-face {
+  font-family: "Moprius Serif";
+  src: url("../fonts/woff2/MopriusSerif-Bold.woff2") format("woff2");
+  font-style: normal; font-weight: 700; font-display: swap;
+}
+@font-face {
+  font-family: "Moprius Serif";
+  src: url("../fonts/woff2/MopriusSerif-BoldItalic.woff2") format("woff2");
+  font-style: italic; font-weight: 700; font-display: swap;
 }
